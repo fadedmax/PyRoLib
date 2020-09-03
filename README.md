@@ -1,2 +1,2 @@
-# PyNsrLib
-PyNsrLib Is A Python Script And Project Library
+# PyRoLib
+PyNsrLib Is A Python Project Library!
